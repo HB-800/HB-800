@@ -17,7 +17,7 @@ Merhaba! Benim adım Hasan BÖCEK ve bu benim portfolio sayfam. Aşağıda deney
 
 ## Contact
 
-Eğer benimle iletişime geçmek isterseniz, bana e-posta veya sosyal medta üzerinden ulaşabilirsiniz.
+Eğer benimle iletişime geçmek isterseniz, bana e-posta veya sosyal medya üzerinden ulaşabilirsiniz.
 
 - E-posta: bocekhasan@icloud.com
 - Website: [hasanbocek.com](https://hasanbocek.com/)
